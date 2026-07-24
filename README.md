@@ -39,9 +39,7 @@ This project is an interactive Power BI dashboard that analyzes Indian Premier L
 
 📷 Dashboard Preview
 
-![IPL Dashboard](Dashboard.png)
-
-
+![IPL Dashboard](Screenshot%20(63).png)
 
  ⭐ Conclusion
 This project demonstrates my ability to build interactive Power BI dashboards, create DAX measures, transform data using Power Query, and present meaningful business insights through data visualization.
